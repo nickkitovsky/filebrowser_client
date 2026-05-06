@@ -5,7 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-
+# IDE dirs
+.vscode
 # Virtual environments
 .venv
 # Project private files
